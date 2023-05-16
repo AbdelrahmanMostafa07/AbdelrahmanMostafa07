@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman Mostafa
 -    I'm a Junior data analyst 
-     Recently I completed many courses in the field, with good understanding and proficiency.
+     And I have good understanding and proficiency.
      of platforms for effective analyses, including SQL Queries, Sheets, Excel, Microsoft Access Microsoft Power BI, 
      Communication skills, and analytical skills, willingness to learn and develop my skills.
      
