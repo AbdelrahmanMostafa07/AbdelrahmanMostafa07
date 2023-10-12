@@ -5,7 +5,7 @@
      Communication skills, and analytical skills, willingness to learn and develop my skills.
      
 -    I’m interested in data analytics
--    I’m currently learning Machine learning to use it in data anlytics
+-    I’m currently studying Machine learning to use it in data anlytics
 - 
 -    How to reach me:
 -    phone : 01148639899
